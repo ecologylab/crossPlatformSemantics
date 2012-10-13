@@ -43,3 +43,24 @@
 [submodule "Java/simplTranslators"]
 	path = Java/simplTranslators
 	url = https://github.com/ecologylab/simplTranslators.git
+[submodule "MetaMetadataRepository"]
+	path = MetaMetadataRepository
+	url = https://github.com/ecologylab/MetaMetadataRepository.git
+[submodule "JavaSun/ecologylabFundamentalSun"]
+	path = JavaSun/ecologylabFundamentalSun
+	url = https://github.com/ecologylab/ecologylabFundamentalSun.git
+[submodule "JavaSun/ecologylabSemanticsSun"]
+	path = JavaSun/ecologylabSemanticsSun
+	url = https://github.com/ecologylab/ecologylabSemanticsSun.git
+[submodule "ecologylabFundamentalAndroid"]
+	path = ecologylabFundamentalAndroid
+	url = https://github.com/ecologylab/ecologylabFundamentalAndroid.git
+[submodule "ecologylabSemanticsAndroid"]
+	path = ecologylabSemanticsAndroid
+	url = https://github.com/ecologylab/ecologylabSemanticsAndroid.git
+[submodule "JavaAndroid/ecologylabFundamentalAndroid"]
+	path = JavaAndroid/ecologylabFundamentalAndroid
+	url = https://github.com/ecologylab/ecologylabFundamentalAndroid.git
+[submodule "JavaAndroid/ecologylabSemanticsAndroid"]
+	path = JavaAndroid/ecologylabSemanticsAndroid
+	url = https://github.com/ecologylab/ecologylabSemanticsAndroid.git
