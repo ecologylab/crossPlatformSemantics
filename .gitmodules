@@ -1,0 +1,45 @@
+[submodule "JavaScript/ecologylabSemanticsJavaScript"]
+	path = JavaScript/ecologylabSemanticsJavaScript
+	url = https://github.com/ecologylab/ecologylabSemanticsJavaScript.git
+[submodule "CSharp/ecologylabFundamental"]
+	path = CSharp/ecologylabFundamental
+	url = https://github.com/ecologylab/ecologylabFundamental.NET.git
+[submodule "CSharp/ecologylabGeneratedSemantics"]
+	path = CSharp/ecologylabGeneratedSemantics
+	url = https://github.com/ecologylab/ecologylabGeneratedSemantics.NET.git
+[submodule "CSharp/ecologylabSemantics"]
+	path = CSharp/ecologylabSemantics
+	url = https://github.com/ecologylab/ecologylabSemantics.NET.git
+[submodule "CSharp/ecologylabSemanticsExamples"]
+	path = CSharp/ecologylabSemanticsExamples
+	url = https://github.com/ecologylab/ecologylabSemanticsExamples.NET.git
+[submodule "Java/cyberneko"]
+	path = Java/cyberneko
+	url = https://github.com/ecologylab/cyberneko.git
+[submodule "Java/ecologylabFundamental"]
+	path = Java/ecologylabFundamental
+	url = https://github.com/ecologylab/ecologylabFundamental.git
+[submodule "Java/ecologylabGeneratedSemantics"]
+	path = Java/ecologylabGeneratedSemantics
+	url = https://github.com/ecologylab/ecologylabGeneratedSemantics.git
+[submodule "Java/ecologylabSemantics"]
+	path = Java/ecologylabSemantics
+	url = https://github.com/ecologylab/ecologylabSemantics.git
+[submodule "Java/ecologylabSemanticsCyberneko"]
+	path = Java/ecologylabSemanticsCyberneko
+	url = https://github.com/ecologylab/ecologylabSemanticsCyberneko.git
+[submodule "Java/ecologylabSemanticsExample"]
+	path = Java/ecologylabSemanticsExample
+	url = https://github.com/ecologylab/ecologylabSemanticsExample.git
+[submodule "Java/ecologylabSemanticsLocationAware"]
+	path = Java/ecologylabSemanticsLocationAware
+	url = https://github.com/ecologylab/ecologylabSemanticsLocationAware.git
+[submodule "Java/metadataExtractor"]
+	path = Java/metadataExtractor
+	url = https://github.com/ecologylab/metadataExtractor.git
+[submodule "Java/MetaMetadataRepositoryService"]
+	path = Java/MetaMetadataRepositoryService
+	url = https://github.com/ecologylab/MetaMetadataRepositoryService.git
+[submodule "Java/simplTranslators"]
+	path = Java/simplTranslators
+	url = https://github.com/ecologylab/simplTranslators.git
